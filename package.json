@@ -3,7 +3,7 @@
   "author": {
     "name": "electricessence"
   },
-  "version": "6.0.2",
+  "version": "6.0.3",
   "description": "Telegram Bridge MCP \u2014 An MCP server that bridges AI assistants to a Telegram bot for two-way messaging, confirmations, status updates, and voice transcription.",
   "license": "AGPL-3.0-only",
   "homepage": "https://github.com/electricessence/Telegram-Bridge-MCP",
@@ -84,6 +84,6 @@
   },
   "packageManager": "pnpm@10.0.0",
   "bin": {
-    "iflow-mcp_electricessence-telegram-bridge-mcp": "dist/index.js"
+    "iflow-mcp_electricessence-telegram-bridge-mcp": "bin/cli.js"
   }
 }
